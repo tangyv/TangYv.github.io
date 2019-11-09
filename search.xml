@@ -8,7 +8,7 @@
       <link href="/2019/11/07/Markdown%E8%AF%AD%E6%B3%95/"/>
       <url>/2019/11/07/Markdown%E8%AF%AD%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h1><pre><code>markdown一级标题== 二级标题--一级标题##################### 六级标题</code></pre><h1 id="二、段落"><a href="#二、段落" class="headerlink" title="二、段落"></a>二、段落</h1><pre><code>末尾两个以上空格加回车</code></pre><p>效果是这样的  。<br>你看。</p><h2 id="1-字体"><a href="#1-字体" class="headerlink" title="1.字体"></a>1.字体</h2><p><em>斜体</em><br><strong>粗体</strong><br><strong><em>粗斜体</em></strong><br><em>下划线</em></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*斜体文本*</span><br><span class="line">**粗体文本**</span><br><span class="line">***粗斜体文本***</span><br><span class="line">_下划线_</span><br></pre></td></tr></table></figure><h2 id="2-分割线"><a href="#2-分割线" class="headerlink" title="2.分割线"></a>2.分割线</h2><p>这里有一条分割线</p><hr><hr><hr><p>在上面a</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">***</span><br><span class="line">---</span><br><span class="line">___</span><br></pre></td></tr></table></figure><h2 id="3-删除线"><a href="#3-删除线" class="headerlink" title="3.删除线"></a>3.删除线</h2><p><del>删除线在这里</del></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~两个这样的符号这样包起来~~</span><br></pre></td></tr></table></figure><h2 id="4-下划线"><a href="#4-下划线" class="headerlink" title="4.下划线"></a>4.下划线</h2><p><em>哈哈哈</em> 不知道网页里能不能用</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">_两个下划线包起来_</span><br><span class="line"></span><br><span class="line">还有</span><br><span class="line">&lt;u&gt;啥东西&lt;/u&gt;</span><br></pre></td></tr></table></figure><h2 id="5-脚注"><a href="#5-脚注" class="headerlink" title="5.脚注"></a>5.脚注</h2><h1 id="三、列表"><a href="#三、列表" class="headerlink" title="三、列表"></a>三、列表</h1><p>格式： [^要注明的文本]<br>例：<br>    需要注明的文本 [^MarkDown]。<br>    [^MarkDown]:Markdown 是一种轻量级标记语言。</p>]]></content>
       
       
       
@@ -27,7 +27,7 @@
       <link href="/2019/11/07/Hexo%20GitHub%20Page%E6%9E%84%E5%BB%BA%E8%B7%AF%E7%BA%BF/"/>
       <url>/2019/11/07/Hexo%20GitHub%20Page%E6%9E%84%E5%BB%BA%E8%B7%AF%E7%BA%BF/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>关于</p>]]></content>
       
       
       
