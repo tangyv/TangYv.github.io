@@ -8,25 +8,19 @@
       <link href="/2019/11/19/%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E7%BB%91%E5%AE%9A/"/>
       <url>/2019/11/19/%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E7%BB%91%E5%AE%9A/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>学校教学楼的必经之路路上有一台自动售货机，使用刷脸支付会随机减免一定金额。<br>出于好奇，想探索一下减免金额产生的原理与这么做的目的。  </p><h1 id="为什么“随机”减免"><a href="#为什么“随机”减免" class="headerlink" title="为什么“随机”减免"></a>为什么“随机”减免</h1><p>将自动售货机放置在同学们的必经之路上，</p><blockquote><p>假设出于习惯，同学们大概率不会使用该自动售货机。</p></blockquote><p>而通过随机减免的形式，同学们可能会逐渐注意到这台机器，而在路途中经常看到就会引起同学们的购买欲望（即使原本并没有想买）。  并且随机减免在同学口中相传，间接也会有推广效果</p><h1 id="真的随机吗？"><a href="#真的随机吗？" class="headerlink" title="真的随机吗？"></a>真的随机吗？</h1><p>我在多次买的过程中注意到减免金额是递减的，但偶尔会出现暴增。或许每个人都有一个资金池，通过该售货机的使用频率分布计算该次减免金额。<br>而金额池可根据支付宝的消费习惯对每个人进行确定。</p>]]></content>
       
       
       <categories>
           
-          <category> cat1 </category>
-          
-          <category> cat2 </category>
-          
-          <category> cat3 </category>
+          <category> 随笔 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> tag1 </tag>
-            
-            <tag> tag2 </tag>
+            <tag> 生活思考 </tag>
             
         </tags>
       
@@ -46,14 +40,16 @@
           
           <category> 橘子味儿 </category>
           
+          <category> 随笔 </category>
+          
       </categories>
       
       
         <tags>
             
-            <tag> 随笔 </tag>
+            <tag> 小橘 </tag>
             
-            <tag> 小说 </tag>
+            <tag> 脑洞 </tag>
             
         </tags>
       
@@ -105,9 +101,7 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
-            <tag> Hexo GitHub Page </tag>
+            <tag> 入门文档 </tag>
             
         </tags>
       
